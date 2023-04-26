@@ -6,3 +6,7 @@ This is a repository of data exploration projects examining worldwide Covid-19 d
 
 Datasets explored along with Alex the Analyst's [Data Analyst Portfolio Project](https://youtube.com/watch?v=qfyynHBFOsM) include data from the beginning of 2020 through
 end of April 2021.
+
+## Planned work:
+- Explore updated data to explore vaccination impacts on infection numbers
+- Visualiza data in Tableau
