@@ -9,4 +9,4 @@ end of April 2021.
 
 ## Planned work:
 - Explore updated data to explore vaccination impacts on infection numbers
-- Visualiza data in Tableau
+- Visualize data in Tableau
